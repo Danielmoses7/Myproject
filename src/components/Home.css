@@ -1,0 +1,38 @@
+.home-section {
+  background: linear-gradient(135deg, #61dafb, #282c34);
+  color: white;
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.home-content {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  max-width: 900px;
+}
+
+.profile-pic {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+
+.welcome-text h2 {
+  font-size: 2.8rem;
+  margin-bottom: 15px;
+}
+
+.welcome-text p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  max-width: 500px;
+  font-family:sans-serif;
+}
