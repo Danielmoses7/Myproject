@@ -20,7 +20,7 @@ function Certificate() {
       {isVisible && (
         <ul className="certificate-list">
           <li>✔️ Generative Ai – Oracle</li>
-          <li>✔️ Javascript – Codeacademy</li>
+          <li>✔️ Mern Stack-BLACKBUCKS</li>
           <li>✔️ DevOps Internship – NIELIT</li>
           <li>✔️ c++ – cisco</li>
           {/* Add more as needed */}
